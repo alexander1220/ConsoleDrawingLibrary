@@ -21,7 +21,7 @@ You can draw:
 
 ## 🚀 Getting Started :
 
-First, grab the .dll file <a href="https://github.com/alexander1220/ConsoleDrawingLibrary/blob/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll">HERE</a> (or download the project and compile it yourself)
+First, grab the .dll file <a href="[https://github.com/alexander1220/ConsoleDrawingLibrary/blob/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll](https://github.com/alexander1220/ConsoleDrawingLibrary/raw/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll)">HERE</a> (or download the project and compile it yourself)
 
 ### Visual Studio :
 
