@@ -21,7 +21,7 @@ You can draw:
 
 ## 🚀 Getting Started :
 
-First, grab the .dll file <a data-permalink-href="/alexander1220/ConsoleDrawingLibrary/raw/0497586c4e035ae1a0813e7b7bee711db2d22d3e/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll" href="/alexander1220/ConsoleDrawingLibrary/raw/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">Download</a> (or download the project and compile it yourself)
+First, grab the .dll file <a data-permalink-href="https://github.com/alexander1220/ConsoleDrawingLibrary/blob/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll">Download</a> (or download the project and compile it yourself)
 
 <a href="/alexander1220/ConsoleDrawingLibrary/raw/0497586c4e035ae1a0813e7b7bee711db2d22d3e/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll"> or here?</a>
 
