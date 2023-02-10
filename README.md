@@ -22,7 +22,7 @@ You can draw:
 
 ## 🚀 Getting Started :
 
-**First**, grab the .dll file [HERE](https://github.com/alexander1220/ConsoleDrawingLibrary/blob/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll) (or download the project and compile it yourself).
+**First**, grab the .dll file [HERE](https://github.com/alexander1220/ConsoleDrawingLibrary/blob/master/ConsoleDrawingLibrary/bin/Release/ConsoleDrawingLibrary.dll) (or download the project and compile it yourself or just copy the code).
 
 ### Visual Studio :
 
