@@ -21,6 +21,8 @@ You can draw:
 
 ## 🚀 Getting Started :
 
+First, grab the .dll file <a href="">HERE</a> (or download the project and compile it yourself)
+
 ### Visual Studio :
 
 1. Right-click on your project
