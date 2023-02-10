@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDrawingLibrary", "ConsoleDrawingLibrary\ConsoleDrawingLibrary.csproj", "{61C34C2E-7273-406C-9182-F33026F3F3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C34C2E-7273-406C-9182-F33026F3F3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C34C2E-7273-406C-9182-F33026F3F3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C34C2E-7273-406C-9182-F33026F3F3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C34C2E-7273-406C-9182-F33026F3F3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D174E3B2-E973-457B-AA1E-EFCBBB650E94}
+	EndGlobalSection
+EndGlobal
