@@ -18,6 +18,7 @@ You can draw:
  - Rectangles
  - Circles
  - Bezier Curves
+ - Text
  - (more coming soon...)
 
 ## 🚀 Getting Started :
