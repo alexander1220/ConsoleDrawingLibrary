@@ -118,7 +118,7 @@ namespace ConsoleDrawingLibrary
         {
             if (x < 0) x = 0;
             if (y < 0) y = 0;
-            if (x + text.Length >= Console.WindowWidth) text = text.Substring(0, Console.WindowWidth - x); //what if half text overflows? substring(0,width-x-1?)
+            if (x + text.Length >= Console.WindowWidth) text = text.Substring(0, Console.WindowWidth - x);
             if (y >= Console.WindowHeight) return;
 
             var curColor = Console.ForegroundColor;
