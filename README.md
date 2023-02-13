@@ -56,8 +56,25 @@ using ConsoleDrawingLibrary;
 ```
 **Use it:**
 ```cs
-using ConsoleDrawingLibrary;
+string[] arr = { "Home", "Tools", "Data" };
+int selected = 0;
+
+ConsoleDrawer.DrawRect(10, 10, 60, 40);
+ConsoleDrawer.DrawRect(10, 10, 13, 40);
+for (int i = 0; i < arr.Length; i++)
+{
+    ConsoleDrawer.DrawText(14, 15 + (i * 3), i == selected ? "> " + arr[i] : arr[i]);
+}
+if(selected == 0)
+{
+    ConsoleDrawer.DrawBezier(30, 30, 64, 30, 47, 45);
+    ConsoleDrawer.DrawBezier(30, 30, 64, 30, 47, 15);
+    ConsoleDrawer.DrawCircle(41, 29, 6);
+    ConsoleDrawer.DrawFilledCircle(44, 29, 3);
+}
 ```
+
+![image](https://user-images.githubusercontent.com/47181191/218500518-9cbcc880-b65d-4f34-b530-10cf3270b41e.png)
 
 <a name="tips"/>
 
