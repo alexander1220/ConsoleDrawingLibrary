@@ -51,12 +51,13 @@ You can draw:
 
 **Import it:**
 
-    using ConsoleDrawingLibrary;
-
+```cs
+using ConsoleDrawingLibrary;
+```
 **Use it:**
-
-    ConsoleDrawer.DrawPoint(10, 10);
-
+```cs
+using ConsoleDrawingLibrary;
+```
 
 <a name="tips"/>
 
